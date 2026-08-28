@@ -12,4 +12,4 @@ Celica Toolworks has a transparent background, meant to match the SAO UI theme b
 
 <img width="946" height="500" alt="6" src="https://github.com/user-attachments/assets/7828dcdf-8072-4661-a887-05272633d62a" />
 
-<img width="1919" height="1040" alt="7" src="https://github.com/user-attachments/assets/e6abe55e-90ff-475a-aab7-1f119ffd6149" />
+<img width="1920" height="1047" alt="7" src="https://github.com/user-attachments/assets/0d2ddee3-d1d0-4197-b1e0-788d491b3162" />
