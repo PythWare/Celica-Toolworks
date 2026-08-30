@@ -40,6 +40,8 @@ Gamers who only intend to download mods just need to Unpack the game with the Un
 
 Entirely possible to do, you'd just need to reference new files. For example, subquests/missions are referenced in the unpacked files along with a list of all available quests. So if you intended to make a custom quest mod (super easy to do, lua/csv are used heavily for the quests) as an example, depending on the complexity of the quest you'd either just make a new .lua file or create additional lua/csv/etc files and update the file that references all quests. That's just a basic example, the game will load new assets without needing to replace if you identify the unpacked file that stores references of what files to load.
 
+Interestingly, Lost Song has over 60 cut/unused quests. There are quite a bit of unused quests that are complete enough to enable for the game.
+
 # GUI examples
 
 Celica Toolworks has a transparent background, meant to match the SAO UI theme but with Yang Xiao Long inspired coloring.
