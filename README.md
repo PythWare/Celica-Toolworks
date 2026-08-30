@@ -74,7 +74,17 @@ Celica Toolworks has a transparent background, meant to match the SAO UI theme b
 
 # Examples of unused/cut quests
 
-Since there are over 60 unused quests i'm only showing some of them on here so the repository isn't bloated with images
+Since there are over 60 unused quests i'm only showing some of them on here so the repository isn't bloated with images. 
+
+The lisbeth one (指輪を求めて（１）リズベット) according to google translate is:
+
+In Search of the Ring (1) Lisbeth
+
+Silica one (黄金のリンゴ（１）シリカ) is:
+
+The Golden Apple (1)  Silica
+
+No idea how accurate those translations are, it's just what google translate says. The third image is a discarded quest
 
 <img width="475" height="440" alt="18" src="https://github.com/user-attachments/assets/2d83f72f-ebc4-4e50-9640-57b3a15f3447" />
 
