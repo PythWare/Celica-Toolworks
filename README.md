@@ -71,3 +71,13 @@ Celica Toolworks has a transparent background, meant to match the SAO UI theme b
 <img width="1269" height="951" alt="6" src="https://github.com/user-attachments/assets/18e2ae8e-b472-49f1-94b1-14ab5c28d1cb" />
 
 <img width="1266" height="959" alt="5" src="https://github.com/user-attachments/assets/b433ba07-601b-4e8f-8f1e-43dd323e006e" />
+
+# Examples of unused/cut quests
+
+Since there are over 60 unused quests i'm only showing some of them on here so the repository isn't bloated with images
+
+<img width="475" height="440" alt="18" src="https://github.com/user-attachments/assets/2d83f72f-ebc4-4e50-9640-57b3a15f3447" />
+
+<img width="473" height="417" alt="19" src="https://github.com/user-attachments/assets/f852c71d-3996-4a4e-93f7-66e787e12a0b" />
+
+<img width="470" height="52" alt="20" src="https://github.com/user-attachments/assets/8363ab44-6333-4eb4-a4ac-2f697e30464c" />
