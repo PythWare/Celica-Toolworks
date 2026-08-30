@@ -1,6 +1,44 @@
 # Celica Toolworks
 
-Inspired by Yang Xiao Long from RWBY, Celica Toolworks is a toolkit that makes Sword Art Online Lost Song easily moddable. This repository will be updated soon
+Inspired by Yang Xiao Long from RWBY, Celica Toolworks is a toolkit that makes Sword Art Online Lost Song easily moddable. Includes a custom SAO inspired GUI I designed.
+
+Scroll down for example images of the GUI if desired
+
+# Requirements
+
+Python installed, that's pretty much it. It's a lightweight but rad toolkit.
+
+# How to run
+
+double click main.pyw, should run after that. If it has issues with double clicking then open cmd in the current directory and type python main.pyw
+
+If Celica Toolworks doesnt launch it's usually caused by Python not being installed correctly or .pyw file associations using the wrong Python. Please verify your Python installation before reporting a bug.
+
+# Controls
+
+The GUI is intentionally designed to be unique, it doesn't look like a standard GUI app.
+
+To move the app around you must use right click on the GUI.
+
+To exit, click the esc button on your keyboard.
+
+Press F1 to toggle on/off always on top mode.
+
+# T spherical button
+
+T is for tools. Set Path button tells Celica Toolworks where your lost song game directory is, Unpack button will unpack the game to the game's directory (should be super quick, only takes 5 seconds for me), Patch DLL button will backup the game's d3dcompiler_47.dll file and place the one I created in the game's directory (this allows the game to load loose files without having to patch the executable), Revert DLL will disable loose file loading and return your original d3dcompiler_47.dll to the game.
+
+# Modding workflow
+
+Since Celica Toolworks can force Lost Song to read loose files, there's no need for a mod manager or rebuilding of the apk containers the game has. The workflow is extremely easy especially because all unpacked files retain their original filenames.
+
+Modders will mod whatever unpacked files they want, then start the game. The game will simply read the unpacked files as long as you used the Patch DLL button
+
+Gamers who only intend to download mods just need to Unpack the game with the Unpack button and extract the downloaded mods (nexus or wherever) you have to Sword Art Online Lost Song\data folder. After that, just start the game.
+
+# About adding new assets to Lost Song
+
+Entirely possible to do, you'd just need to reference new files. For example, subquests/missions are referenced in the unpacked files along with a list of all available quests. So if you intended to make a custom quest mod (super easy to do, lua/csv are used heavily for the quests) as an example, depending on the complexity of the quest you'd either just make a new .lua file or create additional lua/csv/etc files and update the file that references all quests. That's just a basic example, the game will load new assets without needing to replace if you identify the unpacked file that stores references of what files to load.
 
 # GUI examples
 
