@@ -1,12 +1,12 @@
 # Celica Toolworks
 
-Inspired by Yang Xiao Long from RWBY, Celica Toolworks is a toolkit that makes Sword Art Online Lost Song easily moddable. Includes a custom SAO inspired GUI I designed.
+Inspired by Yang Xiao Long from RWBY, Celica Toolworks is software that makes Sword Art Online Lost Song easily moddable. Includes a custom SAO inspired GUI I designed.
 
 Scroll down for example images of the GUI if desired
 
 # Requirements
 
-Python installed, that's pretty much it. It's a lightweight but rad toolkit.
+Python installed, that's pretty much it. It's a lightweight but rad software.
 
 # How to run
 
